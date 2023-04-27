@@ -1,6 +1,7 @@
 ### Hi there :computer:
 
-Eu sou Raphael Bonadia, Sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou Raphael Bonadia, Sou um programador Front End, hoje estou estou estudando o curso "Análise e Desenvolvimento de Sistemas" na Faculdade UNICID e fazendo um curso de Programação do zero ao Full Stack no DEVCLUB, a cada dia me sinto melhor e mais preparado e continuarei a estudar e evoluir cada vez mais.
+Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
@@ -13,8 +14,9 @@ Eu sou Raphael Bonadia, Sou um programador Front End, atualmente estou aprendend
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
     <br>
     <br>
-         <p<b>Conecte-se comigo:</b></p>
-         <br>
+
+  Conecte-se comigo:
+        
    <a href="https://www.linkedin.com/in/raphael-bonadia-de-oliveira-09270922b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /></a>
    
    [![Raphael stats](https://github-readme-stats.vercel.app/api?username=raphabonadia)](https://github.com/anuraghazra/github-readme-stats)
