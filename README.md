@@ -1,6 +1,6 @@
 ### Hi there :computer:
 
-Eu sou Raphael Bonadia, Sou um programador Front End, hoje estou estou estudando o curso "Análise e Desenvolvimento de Sistemas" na Faculdade UNICID e fazendo um curso de Programação do zero ao Full Stack no DEVCLUB, a cada dia me sinto melhor e mais preparado e continuarei a estudar e evoluir cada vez mais.
+Eu sou Raphael Bonadia, Sou um programador Front End, hoje estou estou estudando o curso "Análise e Desenvolvimento de Sistemas" na Faculdade UNICID e fazendo um curso de Programação do zero ao Full Stack no DEVCLUB, ja estou trabalhando na área a quase 1 ano e a cada dia me sinto melhor e mais preparado e continuarei a estudar e evoluir cada vez mais.
 Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
@@ -12,6 +12,10 @@ Atualmente estou aprendendo e criando projetos com:
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo" />
 
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+
+   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
     <br>
     <br>
 
